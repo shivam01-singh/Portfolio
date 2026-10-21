@@ -1,1 +1,2 @@
 # Portfolio
+Personal portfolio of Shivam Kumar Singh — a B.Tech Computer Science and Data Science student at Techno India University, Kolkata. Showcasing my skills in Python, SQL, data analytics, data visualization, AI/ML fundamentals, and business problem-solving through projects, experience, and achievements. Built with HTML, CSS, and JavaScript, featuring a dark, Spider-Man-inspired design with interactive animations.
